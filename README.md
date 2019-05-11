@@ -32,6 +32,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM stands for document object model, and is the hieracrchy tree of the element and objects that make up the web page. 
+
 2. What is an event?
 
 3. What is an event listener?
