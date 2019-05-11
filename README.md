@@ -36,11 +36,19 @@ The DOM stands for document object model, and is the hieracrchy tree of the elem
 
 2. What is an event?
 
+An event is when something happens, most often onload, mouse clicks, keyboard clicks ... but will involve some kind of interaction ability.
+
 3. What is an event listener?
+
+It is a function that listens, await and interacts with the event to accompllish something. 
 
 4. Why would we convert a NodeList into an Array?
 
+Though a NodeList is an array like object, giving us forEach is is not an array and therefore we might want the additional fucntionaliyt of an array to applied to our NodeList.
+
 5. What is a component?
+
+A component is a piece of reuseable code that helps us maintain DRY and can be used in conjuction with out components.  
 
 ### Git Set up
 
